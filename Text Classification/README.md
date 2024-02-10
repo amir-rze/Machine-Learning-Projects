@@ -1,0 +1,1 @@
+Text_Classification In this question, we intend to perform the task of sentence classification using recurrent networks. For this purpose, we will use the dataset from this link. This dataset is a binary classification problem; meaning that each sentence is only examined in terms of being positive (positive opinion) or negative (negative opinion).

@@ -1,0 +1,3 @@
+ML_CNN_1  :  In this question, you are to train a convolutional neural network that can classify sounds. You will also become familiar with how to define a simple convolutional neural network in Keras and learn how to work with audio data. Report and analyze the results.
+
+ML_CNN_2  : In this question, you will work with the problem of image classification using CNNs, a problem in which CNNs have achieved significant success. Additionally, you will become familiar with deeper concepts of working with Keras and how to apply transfer learning in Keras. Report and analyze the results.
